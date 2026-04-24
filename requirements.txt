@@ -6,3 +6,4 @@ aiofiles
 python-dotenv
 motor
 psutil
+dnspython
