@@ -3,3 +3,4 @@ tgcrypto
 aiohttp
 pyromod
 aiofiles
+python-dotenv
